@@ -28,7 +28,7 @@ Registry: external.system.auto.import.disabled=true
 
 ## What can the Music Player do?  
 
-- Play songs! There are five Jay's songs stored in the [file](./app/src/main/res/raw/). You can download anysong youlike and alternate the original songs.  
+- Play songs! There are five Jay's songs stored in this [file](./app/src/main/res/raw/). You can download anysong youlike and alternate the original songs.  
 
 - You can drag the progress bar to anywhere you like. And Play, Pause, Next, etc. as you wish.
 
